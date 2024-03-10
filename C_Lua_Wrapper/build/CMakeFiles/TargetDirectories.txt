@@ -1,0 +1,3 @@
+/home/hope/git/Lab/C_Lua_Wrapper/build/CMakeFiles/lcounter.dir
+/home/hope/git/Lab/C_Lua_Wrapper/build/CMakeFiles/edit_cache.dir
+/home/hope/git/Lab/C_Lua_Wrapper/build/CMakeFiles/rebuild_cache.dir
