@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,lcounter.so -o lcounter.so CMakeFiles/lcounter.dir/Counter.c.o  /home/hope/.luaver/lua/5.1/lib/liblua.a 
